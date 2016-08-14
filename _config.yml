@@ -5,18 +5,18 @@ header-img: img/home-bg.jpg
 email: xierenyuan@qq.com
 description: ""
 keyword: ""
-url: "https://xierenyuan.github.io"              # your host, for absolute URL
-baseurl: "https://xierenyuan.github.io/"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "/"              # your host, for absolute URL https://xierenyuan.github.io
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog' https://xierenyuan.github.io/
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     pingdan9527
+zhihu_username:     false
+github_username:    xierenyuan
 #twitter_username:  huxpro
-facebook_username:  huxpro
+facebook_username:  xierenyuan  
 
 
 
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: renhong
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
